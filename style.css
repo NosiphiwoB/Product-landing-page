@@ -9,13 +9,14 @@
     background-color: yellow;
     margin: 0rem
   }
-  #header-img
+
   
   
   #nav{
     display: flex
-  
   }
+
+  
   .smaller-image{
     width: 100px;
     margin-left: auto;
